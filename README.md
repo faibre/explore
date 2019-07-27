@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/faibrejose/e5bae149-5bf7-463f-8ea7-038185a77987/357f3671-7af7-49ee-95c9-1ee5fbb930e9/_apis/work/boardbadge/bfdf3622-f072-40ca-9db7-1292f338c3fb)](https://dev.azure.com/faibrejose/e5bae149-5bf7-463f-8ea7-038185a77987/_boards/board/t/357f3671-7af7-49ee-95c9-1ee5fbb930e9/Microsoft.RequirementCategory)
 # GitHub Explore
 
 This repository houses all of the community-curated content for GitHub Topics and Collections.
